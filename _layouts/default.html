@@ -25,10 +25,11 @@
 				<h1>{{ site.name }}</h1>
 				<!-- <img id="about" src="/img/logo.jpg" height="75px" width="75px" /><br /> -->
 
-				<a href="/">home</a> <br />
-				{% for i in site.urls %}
-					<a class="about" href="{{ i.url }}">{{ i.text }}</a><br />
-				{% endfor %}
+				<a href="/">home</a>
+        <br />
+		
+
+        <a href="mailto:{{ site.email }}?Subject=Hello%20again" target="_top">email</a>
 
 				{% if site.about %}
 				<div id="about">
