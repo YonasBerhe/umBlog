@@ -2,9 +2,11 @@ name: Yonas Berhe
 markdown: redcarpet
 highlighter: true
 github: https://www.github.com/yonasberhe
- 
+
 urls:
     - text: github
       url: https://github.com/yonasberhe
     - text: email
       url: yonas.berhe007@gmail.com
+
+baseurl: "/umblog"
