@@ -1,6 +1,6 @@
 name: Yonas Berhe
 markdown: redcarpet
-highlighter: true
+highlighter: pygments
 github: https://www.github.com/yonasberhe
 
 email: yonas.berhe007@gmail.com
