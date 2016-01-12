@@ -1,0 +1,8 @@
+---
+layout: post
+title: 'About Face: The Essentials of Interaction Design by Alan Cooper'
+date: '2016-1-11 21:48'
+categories: UX
+---
+
+About Face: The Essentials of Interaction Design by Alan Cooper is a guide to understanding the world of Interaction Design. Alan Cooper is the founder of Cooper a design & strategy firm. The practice of Goal Oriented Design & Segmenting personas had the biggest impression on me when reading About Face: The Essentials of Interaction Design. Identifying users for a product goes far beyond just identifying them by age, gender, and socioeconomic status. User Experience design is about gathering information about how the users of the product might interact with it in different settings, the phrase used for this practice is called segmentation of personas. Segmenting personas allows you to prioritize which will best fit the needs of the product you're going to create. When you have identified key personas for your product, you can render your product closer to becoming a successful consumer product.<br>I think the most critical part of User Experience is Goal Oriented design. User Experience designers should always take into account information and original hypotheses, made by the other people working on the same project. Some of the initial information that should be taken into account are internal documents, industry reports, and web searches. Internal documents are key to understanding what work has already been done to establish what the potential user might look like.  Industry reports takes into account business and technical journal articles. Web searches are about general resources and insight on the web that pertain to your product. 
