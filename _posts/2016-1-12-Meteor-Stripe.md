@@ -125,24 +125,10 @@ To add Stripe to our Meteor app we will use the mrgalaxy:stripe package.
 Replace “TEST-PUBLISHABLE-KEY” and “TEST-SECRET-KEY” with your Stripe Test API Keys.
 
 
-Update your html to use our stripe checkout button.
+Update your html to use our stripe checkout button:
 
-{% highlight html %}
-# stripe-checkout.html
-   <head>
-     <title>meteor-stripe-checkout</title>
-   </head>
+<a>https://gist.github.com/YonasBerhe/67bea4410e6ce7f1aa57</a>
 
-   <body>
-     <h1>Meteor Stripe checkout</h1>
 
-{{> hello}}
-   </body>
 
-   <template name="hello">
-     <button>Pay with Stripe</button>
-   </template>
-
-{% endhighlight %}
-
-Their you go you now know how to use stripe checkout in your next meteor application.
+Their you go, now you know how to use stripe checkout in your next meteor application.
