@@ -127,7 +127,7 @@ Replace “TEST-PUBLISHABLE-KEY” and “TEST-SECRET-KEY” with your Stripe Te
 
 Update your html to use our stripe checkout button.
 
-{% highlight js %}
+{% highlight html %}
 # stripe-checkout.html
    <head>
      <title>meteor-stripe-checkout</title>
