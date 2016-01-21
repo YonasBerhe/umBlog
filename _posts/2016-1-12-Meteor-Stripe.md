@@ -127,7 +127,6 @@ Replace “TEST-PUBLISHABLE-KEY” and “TEST-SECRET-KEY” with your Stripe Te
 
 Update your html to use our stripe checkout button:
 
-<a>https://gist.github.com/YonasBerhe/67bea4410e6ce7f1aa57</a>
 
 
 
