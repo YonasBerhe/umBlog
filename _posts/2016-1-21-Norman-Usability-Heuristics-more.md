@@ -1,7 +1,7 @@
 ---
 layout: post
-title: ' Norman's Usability Heuristics and More'
-date: '2016-1-21 '
+title: ' Normans Usability Heuristics and More'
+date: '2016-1-21 15:40:25'
 categories: UX
 ---
 Primary research is prior to Usability testing. Primary reasearch are lab studies and field studies.
