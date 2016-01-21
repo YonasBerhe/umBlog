@@ -1,15 +1,15 @@
 ---
 layout: post
 title: 'Naming Conventions, Numbering Systems, & File & Folder Structures'
-date: '2016-1-20 time here'
+date: '2016-1-20 20:39:03'
 categories: UX
 ---
 
 
 
-- This is important to defend conclutions, being able to document things and times completed will allow you to show things tested.
+- Its important to defend conclusions, being able to document things by time and date will allow you to show things tested.
 
-- A good naming coventions seem related
+- Great naming convention is necceary
 
 - People should be able to find things made by you because of a good naming Conventions
 
@@ -17,36 +17,29 @@ categories: UX
 - Including date
 - Memorable file structure
 - Making sure to document the work prior to the final product
-- Sepertating porject into phases
+- Separating projects into phases
 
+File structure:
 
 - Research
 - Plan
 - Create
 - Test
 
+|| In what context is your product used?
+
 ## Contextual Inquiry
 
-- What is the context in whitch your product is used?
+- When interviewing make sure not to complete their sentences for them. Let your interviewee complete their thought.
 
-- This is called a feild Study
+- Data you get while doing field study's is more important than lab study's.
 
-- Nielsen Notman Group
-
-- Dont make conclutions for them
-
-- Data you get while doing feild study is more important than lab studys
-
-- Feild study is used when the envioroment our social issues are effecting the usage of this project
+- Field study is used when the environment  our social issues are effecting the usage of this project
 
 - Secondary research
 
 - Don't complete sentences
 
 - Probe interviewee to think out loud.
-- Make every phase of the interview phase transparent to the interviewee
--
 
-
-
-##personas
+- Make every phase of the interview phase transparent to the interviewee.
