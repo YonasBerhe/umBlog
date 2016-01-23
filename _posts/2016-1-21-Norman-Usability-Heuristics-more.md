@@ -21,3 +21,12 @@ Norman's Usability Heuristics
 - Mapping
 - Consistency
 - Affordance
+
+
+- Diagraming User activity
+
+- See the user flow while using application.
+
+- Visualizing the sequence at once.
+
+-
