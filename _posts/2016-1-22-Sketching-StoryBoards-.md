@@ -1,7 +1,7 @@
 ---
 layout: post
-title: ' '
-date: '2016-1-21 15:40:25'
+title: 'Sketching allows us to us to:'
+date: '2016-1-21 20:43:12'
 categories: UX
 ---
 
